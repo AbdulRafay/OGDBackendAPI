@@ -20,4 +20,8 @@
   - Please make sure the project runs on port 44387 (IIS Express) in order for it to communicate with Front end application (https://github.com/AbdulRafay/MovieApp)
   
   
+ # Documentation 
+ 
+ - After running the project, WEB API documentation can be found at https://localhost:{port}/swagger/index.html
+  
 
