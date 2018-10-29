@@ -1,0 +1,14 @@
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.csprojAssemblyReference.cache
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.csproj.CoreCompileInputs.cache
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.AssemblyInfoInputs.cache
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.AssemblyInfo.cs
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.deps.json
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.dll
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\bin\Debug\netcoreapp2.1\MovieSearch.pdb
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\bin\Debug\netcoreapp2.1\APIClient.dll
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\bin\Debug\netcoreapp2.1\APIClient.pdb
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.csproj.CopyComplete
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.dll
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\obj\Debug\netcoreapp2.1\MovieSearch.pdb
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\bin\Debug\netcoreapp2.1\apisettings.json
+C:\Users\rafay\source\repos\OGDAssignment\MovieSearch\bin\Debug\netcoreapp2.1\searchsettings.json

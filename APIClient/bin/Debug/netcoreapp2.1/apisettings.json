@@ -1,0 +1,8 @@
+{
+  "APIConfig": {
+    "video_api_key": "9e0978fb91ef321aa849ef953bed0f5c",
+    "rating_api_key": "e140c283",
+    "video_api_base_url": "https://api.themoviedb.org",
+    "rating_api_base_url": "http://www.omdbapi.com"
+  }
+}

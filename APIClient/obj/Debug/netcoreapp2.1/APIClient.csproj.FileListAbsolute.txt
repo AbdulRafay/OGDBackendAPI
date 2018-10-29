@@ -1,0 +1,10 @@
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\bin\Debug\netcoreapp2.1\APIClient.deps.json
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\bin\Debug\netcoreapp2.1\APIClient.dll
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\obj\Debug\netcoreapp2.1\APIClient.csproj.CoreCompileInputs.cache
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\obj\Debug\netcoreapp2.1\APIClient.AssemblyInfoInputs.cache
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\obj\Debug\netcoreapp2.1\APIClient.AssemblyInfo.cs
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\bin\Debug\netcoreapp2.1\APIClient.pdb
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\obj\Debug\netcoreapp2.1\APIClient.dll
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\obj\Debug\netcoreapp2.1\APIClient.pdb
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\bin\Debug\netcoreapp2.1\apisettings.json
+C:\Users\rafay\source\repos\OGDAssignment\APIClient\obj\Debug\netcoreapp2.1\APIClient.csprojAssemblyReference.cache
